@@ -148,13 +148,3 @@ A Python script (`test_api.py`) is provided in both frontend and backend folders
 - For production, use a more robust DB like PostgreSQL.
 - All passwords are securely hashed using bcrypt.
 
----
-
-## 🤖 AI Assistance Disclosure
-
-> **This project was developed with the assistance of AI (OpenAI GPT-4 via Cursor).**
-> - AI was used to help design the project structure, generate code for FastAPI endpoints, database models, and schemas, and to write and improve documentation.
-> - AI also assisted in debugging, automating test scripts, and providing step-by-step guidance for API testing (Postman, Swagger, and Python scripts).
-> - All code and documentation were reviewed and tested by the developer.
-
-If you have any questions about which parts were AI-assisted, please refer to the commit history or ask the developer directly.
